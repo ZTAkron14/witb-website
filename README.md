@@ -31,7 +31,7 @@ Both products are listed as currently in development.
 
 The public contact email is currently:
 
-`contact@witbsports.com`
+`winningsportsintel@gmail.com`
 
 Update the email in `contact.html` if the final company address changes.
 
@@ -92,5 +92,5 @@ Reference: GitHub's current Pages custom domain documentation lists these apex-d
 - Confirm navigation works on desktop width
 - Confirm menu toggle works on mobile width
 - Confirm images load
-- Confirm email link opens `mailto:contact@witbsports.com`
+- Confirm email link opens `mailto:winningsportsintel@gmail.com`
 - Confirm `robots.txt` and `sitemap.xml` are present
